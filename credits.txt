@@ -2,22 +2,21 @@ Preliminary Credits List
 
 Mainly for keeping track of things now so we have the list later on. 
 
-Programming
-Otto Allard
+Programming Lead
 Savino Go
-Mina Oh
 
 Level Design
 Matthew Cummings
 Mina Oh
 Zee Yuen
 
-Music
-Matthew Cummings
+Music and Sound Design
 Zee Yuen
 
-Art
-Matthew Cummings
+Art Lead
+Mina Oh
+
+Pixel Art
 Hyunwoo Oh
 Mina Oh
 
