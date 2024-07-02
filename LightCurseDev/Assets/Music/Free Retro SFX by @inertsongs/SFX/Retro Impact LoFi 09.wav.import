@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://frr0m8oyogmr"
+path="res://.godot/imported/Retro Impact LoFi 09.wav-1a895cf5e969a0a5b4b75773f1dd47b1.sample"
+
+[deps]
+
+source_file="res://Assets/Assets/Music/Free Retro SFX by @inertsongs/SFX/Retro Impact LoFi 09.wav"
+dest_files=["res://.godot/imported/Retro Impact LoFi 09.wav-1a895cf5e969a0a5b4b75773f1dd47b1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

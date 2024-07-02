@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dqdscsk8m7d76"
+path="res://.godot/imported/Imposter Syndrome (theme).wav-5addc38305eb1aee3f5f2eac1a9cb861.sample"
+
+[deps]
+
+source_file="res://Assets/Assets/Music/Free Retro SFX by @inertsongs/Imposter Syndrome (theme).wav"
+dest_files=["res://.godot/imported/Imposter Syndrome (theme).wav-5addc38305eb1aee3f5f2eac1a9cb861.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
