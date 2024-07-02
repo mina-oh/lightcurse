@@ -594,8 +594,8 @@ animations = [{
 script = ExtResource("1_ysud6")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-1.15, 13.32)
-scale = Vector2(0.855, 0.39)
+position = Vector2(-1.15, 16.125)
+scale = Vector2(0.74, 0.185)
 shape = SubResource("CapsuleShape2D_dhqbq")
 one_way_collision_margin = 0.0
 
