@@ -351,7 +351,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_e7v67")
 }],
-"loop": false,
+"loop": true,
 "name": &"attack_side",
 "speed": 5.0
 }, {
@@ -592,12 +592,11 @@ animations = [{
 
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_ysud6")
+speed = null
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CapsuleShape2D_dhqbq")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_fa8sa")
-animation = &"attack_up"
-
-[connection signal="animation_finished" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]
+animation = &"attack_side"
