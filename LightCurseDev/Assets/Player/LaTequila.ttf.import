@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://8vitech8gnur"
-path="res://.godot/imported/LaTequila.ttf-b539d50723aedef13fc7b3753262c7f1.fontdata"
+path="res://.godot/imported/LaTequila.ttf-c77334d53081aefcd3c10e0396de8215.fontdata"
 
 [deps]
 
-source_file="res://Assets/Assets/Player/LaTequila.ttf"
-dest_files=["res://.godot/imported/LaTequila.ttf-b539d50723aedef13fc7b3753262c7f1.fontdata"]
+source_file="res://Assets/Player/LaTequila.ttf"
+dest_files=["res://.godot/imported/LaTequila.ttf-c77334d53081aefcd3c10e0396de8215.fontdata"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://q6qxevm73k3v"
-path="res://.godot/imported/Too Late To Save The Town.wav-72e05e68fbde9e90a29fddbc7ee49470.sample"
+path="res://.godot/imported/Too Late To Save The Town.wav-de24e42adafb16a271a531850cf347fd.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/FX/Music/Wild West Music - Harvey Carman/WAV/Too Late To Save The Town.wav"
-dest_files=["res://.godot/imported/Too Late To Save The Town.wav-72e05e68fbde9e90a29fddbc7ee49470.sample"]
+source_file="res://Assets/FX/Music/Wild West Music - Harvey Carman/WAV/Too Late To Save The Town.wav"
+dest_files=["res://.godot/imported/Too Late To Save The Town.wav-de24e42adafb16a271a531850cf347fd.sample"]
 
 [params]
 

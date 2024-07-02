@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7ww5leydjehy"
-path="res://.godot/imported/Slinger Swagger (loop).ogg-3b5b6eaa9c4c1a30f3af570c7904c9dd.oggvorbisstr"
+path="res://.godot/imported/Slinger Swagger (loop).ogg-3b52fb48d0f9d18d44d30b0b1edcd12b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Assets/Music/Wild West Music - Harvey Carman/OGG/Slinger Swagger (loop).ogg"
-dest_files=["res://.godot/imported/Slinger Swagger (loop).ogg-3b5b6eaa9c4c1a30f3af570c7904c9dd.oggvorbisstr"]
+source_file="res://Assets/Music/Wild West Music - Harvey Carman/OGG/Slinger Swagger (loop).ogg"
+dest_files=["res://.godot/imported/Slinger Swagger (loop).ogg-3b52fb48d0f9d18d44d30b0b1edcd12b.oggvorbisstr"]
 
 [params]
 

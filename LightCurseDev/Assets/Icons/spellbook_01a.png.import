@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gxa10uhmsl0i"
-path="res://.godot/imported/spellbook_01a.png-ba9d6d0f544ee4c25b8b132d04a77557.ctex"
+path="res://.godot/imported/spellbook_01a.png-3b177350cc40d5e3f8bbef254eea89d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Assets/Icons/spellbook_01a.png"
-dest_files=["res://.godot/imported/spellbook_01a.png-ba9d6d0f544ee4c25b8b132d04a77557.ctex"]
+source_file="res://Assets/Icons/spellbook_01a.png"
+dest_files=["res://.godot/imported/spellbook_01a.png-3b177350cc40d5e3f8bbef254eea89d1.ctex"]
 
 [params]
 

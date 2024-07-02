@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://jcn8dra5xs88"
-path="res://.godot/imported/Imposter Syndrome (theme).wav-1b195fcd6daa8428b217dc50766806c1.sample"
+path="res://.godot/imported/Imposter Syndrome (theme).wav-dd9ac6d03b5588a68161b8498a594df5.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/FX/Music/Free Retro SFX by @inertsongs/Imposter Syndrome (theme).wav"
-dest_files=["res://.godot/imported/Imposter Syndrome (theme).wav-1b195fcd6daa8428b217dc50766806c1.sample"]
+source_file="res://Assets/FX/Music/Free Retro SFX by @inertsongs/Imposter Syndrome (theme).wav"
+dest_files=["res://.godot/imported/Imposter Syndrome (theme).wav-dd9ac6d03b5588a68161b8498a594df5.sample"]
 
 [params]
 

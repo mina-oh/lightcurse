@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bymn001xnh2ph"
-path="res://.godot/imported/Retro Weapon Gun LoFi 03.wav-75f446784884a0e17f114bf592293415.sample"
+path="res://.godot/imported/Retro Weapon Gun LoFi 03.wav-7056ce0448221f0fc16e3d96202bb3ff.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/Music/Free Retro SFX by @inertsongs/SFX/Retro Weapon Gun LoFi 03.wav"
-dest_files=["res://.godot/imported/Retro Weapon Gun LoFi 03.wav-75f446784884a0e17f114bf592293415.sample"]
+source_file="res://Assets/Music/Free Retro SFX by @inertsongs/SFX/Retro Weapon Gun LoFi 03.wav"
+dest_files=["res://.godot/imported/Retro Weapon Gun LoFi 03.wav-7056ce0448221f0fc16e3d96202bb3ff.sample"]
 
 [params]
 

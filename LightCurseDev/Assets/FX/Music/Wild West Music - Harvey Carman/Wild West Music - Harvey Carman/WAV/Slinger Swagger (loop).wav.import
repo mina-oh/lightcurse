@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bur627f4ydvcu"
-path="res://.godot/imported/Slinger Swagger (loop).wav-edb4a36755b4a7dc46629992aafe61c3.sample"
+path="res://.godot/imported/Slinger Swagger (loop).wav-be659bc9fe71c4105fb35917b022e7c0.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/FX/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/WAV/Slinger Swagger (loop).wav"
-dest_files=["res://.godot/imported/Slinger Swagger (loop).wav-edb4a36755b4a7dc46629992aafe61c3.sample"]
+source_file="res://Assets/FX/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/WAV/Slinger Swagger (loop).wav"
+dest_files=["res://.godot/imported/Slinger Swagger (loop).wav-be659bc9fe71c4105fb35917b022e7c0.sample"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xsoq0ocyeb06"
-path="res://.godot/imported/Unused Walk and Shoot.png-f9463ab2d674621053d326d2858df290.ctex"
+path="res://.godot/imported/Unused Walk and Shoot.png-6444020558a929c0de17aec20f682954.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Assets/Player/Unused Walk and Shoot.png"
-dest_files=["res://.godot/imported/Unused Walk and Shoot.png-f9463ab2d674621053d326d2858df290.ctex"]
+source_file="res://Assets/Player/Unused Walk and Shoot.png"
+dest_files=["res://.godot/imported/Unused Walk and Shoot.png-6444020558a929c0de17aec20f682954.ctex"]
 
 [params]
 

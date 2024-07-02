@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b3e7rlw48qifl"
-path="res://.godot/imported/end.wav-970ed702c7321b7bdb08763bdab546fd.sample"
+path="res://.godot/imported/end.wav-772d8f49461bc4542391297192638600.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/FX/Music/Free Retro SFX by @inertsongs/SFX/end.wav"
-dest_files=["res://.godot/imported/end.wav-970ed702c7321b7bdb08763bdab546fd.sample"]
+source_file="res://Assets/FX/Music/Free Retro SFX by @inertsongs/SFX/end.wav"
+dest_files=["res://.godot/imported/end.wav-772d8f49461bc4542391297192638600.sample"]
 
 [params]
 

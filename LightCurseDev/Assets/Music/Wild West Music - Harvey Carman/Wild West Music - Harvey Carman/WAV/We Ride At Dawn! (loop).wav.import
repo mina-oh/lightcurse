@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bh68qq7mxlu7y"
-path="res://.godot/imported/We Ride At Dawn! (loop).wav-f428d092bf345507be57979817a4ddb3.sample"
+path="res://.godot/imported/We Ride At Dawn! (loop).wav-2d369d6e95b927d5ed1c262e3a3be64d.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/WAV/We Ride At Dawn! (loop).wav"
-dest_files=["res://.godot/imported/We Ride At Dawn! (loop).wav-f428d092bf345507be57979817a4ddb3.sample"]
+source_file="res://Assets/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/WAV/We Ride At Dawn! (loop).wav"
+dest_files=["res://.godot/imported/We Ride At Dawn! (loop).wav-2d369d6e95b927d5ed1c262e3a3be64d.sample"]
 
 [params]
 

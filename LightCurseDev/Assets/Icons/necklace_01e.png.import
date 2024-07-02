@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxwn35v1wqu3c"
-path="res://.godot/imported/necklace_01e.png-57653aa7bf9acbfec30f89c8b0a3f711.ctex"
+path="res://.godot/imported/necklace_01e.png-c04d92ed238e7c9bb60bf43baa87f9d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Assets/Icons/necklace_01e.png"
-dest_files=["res://.godot/imported/necklace_01e.png-57653aa7bf9acbfec30f89c8b0a3f711.ctex"]
+source_file="res://Assets/Icons/necklace_01e.png"
+dest_files=["res://.godot/imported/necklace_01e.png-c04d92ed238e7c9bb60bf43baa87f9d7.ctex"]
 
 [params]
 

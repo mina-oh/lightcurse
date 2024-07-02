@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://2p2nb0pomlpj"
-path="res://.godot/imported/deadbee.wav-4746dcaf1c80ed4043a4a39b3be071f3.sample"
+path="res://.godot/imported/deadbee.wav-b34d5220f8314fe65dff2d5ee4abd4be.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/FX/Music/Free Retro SFX by @inertsongs/SFX/deadbee.wav"
-dest_files=["res://.godot/imported/deadbee.wav-4746dcaf1c80ed4043a4a39b3be071f3.sample"]
+source_file="res://Assets/FX/Music/Free Retro SFX by @inertsongs/SFX/deadbee.wav"
+dest_files=["res://.godot/imported/deadbee.wav-b34d5220f8314fe65dff2d5ee4abd4be.sample"]
 
 [params]
 

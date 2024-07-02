@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://4bgsv6vrv0n6"
-path="res://.godot/imported/We Ride At Dawn! (loop).ogg-ba7eeaddc1c327386ae8b4cb66438845.oggvorbisstr"
+path="res://.godot/imported/We Ride At Dawn! (loop).ogg-434ac5d00bc61f478c3d01749d257101.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Assets/Music/Wild West Music - Harvey Carman/OGG/We Ride At Dawn! (loop).ogg"
-dest_files=["res://.godot/imported/We Ride At Dawn! (loop).ogg-ba7eeaddc1c327386ae8b4cb66438845.oggvorbisstr"]
+source_file="res://Assets/Music/Wild West Music - Harvey Carman/OGG/We Ride At Dawn! (loop).ogg"
+dest_files=["res://.godot/imported/We Ride At Dawn! (loop).ogg-434ac5d00bc61f478c3d01749d257101.oggvorbisstr"]
 
 [params]
 

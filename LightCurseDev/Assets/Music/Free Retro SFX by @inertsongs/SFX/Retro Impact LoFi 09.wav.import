@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://frr0m8oyogmr"
-path="res://.godot/imported/Retro Impact LoFi 09.wav-1a895cf5e969a0a5b4b75773f1dd47b1.sample"
+path="res://.godot/imported/Retro Impact LoFi 09.wav-135aa1f8e29c326aadd795ad7ccd56e5.sample"
 
 [deps]
 
-source_file="res://Assets/Assets/Music/Free Retro SFX by @inertsongs/SFX/Retro Impact LoFi 09.wav"
-dest_files=["res://.godot/imported/Retro Impact LoFi 09.wav-1a895cf5e969a0a5b4b75773f1dd47b1.sample"]
+source_file="res://Assets/Music/Free Retro SFX by @inertsongs/SFX/Retro Impact LoFi 09.wav"
+dest_files=["res://.godot/imported/Retro Impact LoFi 09.wav-135aa1f8e29c326aadd795ad7ccd56e5.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bw3rlmq2uwjt"
-path="res://.godot/imported/We Don't Need Railroads (loop).ogg-e36aef48e7e309af605688823b5d18d4.oggvorbisstr"
+path="res://.godot/imported/We Don't Need Railroads (loop).ogg-80f5602111fde74dfe4d056a646eb7a5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Assets/FX/Music/Wild West Music - Harvey Carman/OGG/We Don't Need Railroads (loop).ogg"
-dest_files=["res://.godot/imported/We Don't Need Railroads (loop).ogg-e36aef48e7e309af605688823b5d18d4.oggvorbisstr"]
+source_file="res://Assets/FX/Music/Wild West Music - Harvey Carman/OGG/We Don't Need Railroads (loop).ogg"
+dest_files=["res://.godot/imported/We Don't Need Railroads (loop).ogg-80f5602111fde74dfe4d056a646eb7a5.oggvorbisstr"]
 
 [params]
 

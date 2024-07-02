@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy3gp0r2jdlxp"
-path="res://.godot/imported/Cactus Front Sheet.png-0f12d6eeeb1fcab3cb30a57d0fa0ad73.ctex"
+path="res://.godot/imported/Cactus Front Sheet.png-10584a68ba2d4d5f2327d48bc4ba0a49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Assets/Mobs/Cactus/Cactus Front Sheet.png"
-dest_files=["res://.godot/imported/Cactus Front Sheet.png-0f12d6eeeb1fcab3cb30a57d0fa0ad73.ctex"]
+source_file="res://Assets/Mobs/Cactus/Cactus Front Sheet.png"
+dest_files=["res://.godot/imported/Cactus Front Sheet.png-10584a68ba2d4d5f2327d48bc4ba0a49.ctex"]
 
 [params]
 

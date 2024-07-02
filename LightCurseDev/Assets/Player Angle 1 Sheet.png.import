@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bka3q5aexwetc"
-path="res://.godot/imported/Player Angle 1 Sheet.png-b5d219215c8a31bc4f93be4caadcfd8f.ctex"
+path="res://.godot/imported/Player Angle 1 Sheet.png-bec9ef33c425cb67d4b6e1fb5f4beeae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Assets/Player Angle 1 Sheet.png"
-dest_files=["res://.godot/imported/Player Angle 1 Sheet.png-b5d219215c8a31bc4f93be4caadcfd8f.ctex"]
+source_file="res://Assets/Player Angle 1 Sheet.png"
+dest_files=["res://.godot/imported/Player Angle 1 Sheet.png-bec9ef33c425cb67d4b6e1fb5f4beeae.ctex"]
 
 [params]
 

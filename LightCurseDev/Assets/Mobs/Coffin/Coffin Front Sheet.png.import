@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1cgttgl8d3h3"
-path="res://.godot/imported/Coffin Front Sheet.png-18839835ea6d202f0056675d1ff270f4.ctex"
+path="res://.godot/imported/Coffin Front Sheet.png-8584275c1e1d79b02460b50ec9aa5018.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Assets/Mobs/Coffin/Coffin Front Sheet.png"
-dest_files=["res://.godot/imported/Coffin Front Sheet.png-18839835ea6d202f0056675d1ff270f4.ctex"]
+source_file="res://Assets/Mobs/Coffin/Coffin Front Sheet.png"
+dest_files=["res://.godot/imported/Coffin Front Sheet.png-8584275c1e1d79b02460b50ec9aa5018.ctex"]
 
 [params]
 
